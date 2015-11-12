@@ -47,12 +47,12 @@ The application will be written in Meteor.
 
 ## Steps
 
-1) Get JDBC -- DONE
-2) Get JDBC to hook to local mysql -- DONE
-3) Create table -- DONE
-4) Try loading table from MySQL command line to check the table structure
-5) Figure out what the hell is contained in this data in the first place
-...
-X) Create Meteor Application
-Y) Set up remote server
-Z) PDF with relevant info
+1. Get JDBC -- DONE
+2. Get JDBC to hook to local mysql -- DONE
+3. Create table -- DONE
+4. Try loading table from MySQL command line to check the table structure
+5. Figure out what the hell is contained in this data in the first place</br>
+...</br>
+X. Create Meteor Application</br>
+Y. Set up remote server</br>
+Z. PDF with relevant info</br>

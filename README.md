@@ -7,6 +7,11 @@ enwiki-20150901-pagelinks.sql
 
 Need to make a PageRank. 
 
+#TO-DO
+
+1. Move out sql dbs to relative file and load from within package
+2. Setup remote mysql server
+
 ### Original Requirements:
 
 Test1. Wikipediaの各エントリのPageRankスコアを計算するプログラムを作成してください。

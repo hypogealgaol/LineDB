@@ -118,6 +118,8 @@ public class DBDemo {
 		ScriptRunner runner = new ScriptRunner(conn, true, false);
 		try {
 			runner.runScript(new BufferedReader(new FileReader("C:/Users/Sinjihn Smith/Documents/COLLEGE/Fall 2015/javasql/wiki_page.sql")));
+			runner.runScript(new BufferedReader(new FileReader("C:/Users/Sinjihn Smith/Documents/COLLEGE/Fall 2015/javasql/wiki_pagelink.sql")));
+
 		}
 		catch(IOException e) {
 			e.printStackTrace();
